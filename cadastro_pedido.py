@@ -31,7 +31,7 @@ def cadastrar():
     pedido["cliente_id"] = cliente["id"]
     pedido["produto"] = input("Digite o nome do produto:\n")
     pedido["quantidade"] = input("Digite a quantidade:\n")
-    pedido["valor_unitario"] = input("Digite o valor unitatio:\n")
+    pedido["valor_unitario"] = input("Digite o valor unitario:\n")
     pedido["valor_total"] = float(pedido["quantidade"]) * float(pedido["valor_unitario"])
 
     lista = csv_sistema.ler(filename)

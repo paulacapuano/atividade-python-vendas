@@ -1,2 +1,4 @@
 id,cliente_id,produto,quantidade,valor_unitario,valor_total
 87401d05-7108-44ed-aa79-228d6efeb67b,2f182428-c814-4c3e-ad0a-fc4e2a38d4bd,acucar,1,10,10.0
+496b461b-5348-4493-bd0f-a3472733c3f8,2f182428-c814-4c3e-ad0a-fc4e2a38d4bd,Chocolate,3,5,15.0
+09743406-f876-4aef-bb11-53e0ae04db24,c88d659c-1fe0-4f9a-9299-527d4c9ab2fa,Banana,6,1.5,9.0
